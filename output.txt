@@ -1,0 +1,2172 @@
+word : in
+line is :38
+
+word : minute
+line is :239
+
+word : place
+line is :219
+
+word : knock
+line is :472
+
+word : scratch
+line is :220
+
+word : budge
+line is :178
+
+word : rough
+line is :104
+
+word : noise
+line is :244
+
+word : paper
+line is :308
+
+word : thought
+line is :327
+
+word : think
+line is :157
+
+word : fault
+line is :134
+
+word : guard
+line is :393
+
+word : house
+line is :104
+
+word : spread
+line is :265
+
+word : power
+line is :134
+
+word : body
+line is :102
+
+word : whole
+line is :150
+
+word : likely
+line is :217
+
+word : right
+line is :116
+
+word : river
+line is :292
+
+word : start
+line is :108
+
+word : steep
+line is :258
+
+word : window
+line is :165
+
+word : polite
+line is :412
+
+word : chair
+line is :165
+
+word : personal
+line is :68
+
+word : awful
+line is :99
+
+word : blame
+line is :376
+
+word : means
+line is :386
+
+word : silver
+line is :460
+
+word : breast
+line is :182
+
+word : charm
+line is :277
+
+word : throat
+line is :317
+
+word : woman
+line is :493
+
+word : number
+line is :63
+
+word : proud
+line is :267
+
+word : behave
+line is :448
+
+word : ghost
+line is :173
+
+word : night
+line is :175
+
+word : stand
+line is :105
+
+word : different
+line is :238
+
+word : comfortable
+line is :242
+
+word : dollar
+line is :101
+
+word : money
+line is :97
+
+word : barrel
+line is :120
+
+word : stock
+line is :126
+
+word : bring
+line is :366
+
+word : deadly
+line is :142
+
+word : swear
+line is :295
+
+word : water
+line is :488
+
+word : square
+line is :48
+
+word : person
+line is :311
+
+word : learn
+line is :404
+
+word : sweat
+line is :114
+
+word : account
+line is :283
+
+word : notice
+line is :268
+
+word : stick
+line is :309
+
+word : out
+line is :50
+
+word : sight
+line is :99
+
+word : happen
+line is :274
+
+word : scrape
+line is :207
+
+word : second
+line is :434
+
+word : ground
+line is :198
+
+word : spider
+line is :177
+
+word : whisper
+line is :171
+
+word : stretch
+line is :145
+
+word : first
+line is :433
+
+word : listen
+line is :230
+
+word : mouth
+line is :471
+
+word : death
+line is :190
+
+word : thread
+line is :183
+
+word : worry
+line is :469
+
+word : float
+line is :491
+
+word : regular
+line is :104
+
+word : piece
+line is :164
+
+word : sound
+line is :173
+
+word : ready
+line is :240
+
+word : village
+line is :287
+
+word : sheet
+line is :308
+
+word : loose
+line is :393
+
+word : ankle
+line is :219
+
+word : ignorant
+line is :410
+
+word : clock
+line is :191
+
+word : close
+line is :218
+
+word : likely
+line is :217
+
+word : throat
+line is :317
+
+word : practice
+line is :130
+
+word : river
+line is :292
+
+word : right
+line is :116
+
+word : bring
+line is :366
+
+word : sheet
+line is :308
+
+word : piece
+line is :164
+
+word : place
+line is :219
+
+word : in
+line is :38
+
+word : dollar
+line is :101
+
+word : comfortable
+line is :242
+
+word : learn
+line is :404
+
+word : round
+line is :276
+
+word : down
+line is :117
+
+word : window
+line is :165
+
+word : sleep
+line is :223
+
+word : support
+line is :68
+
+word : person
+line is :311
+
+word : shoot
+line is :394
+
+word : stock
+line is :126
+
+word : morning
+line is :445
+
+word : budge
+line is :178
+
+word : still
+line is :190
+
+word : guard
+line is :393
+
+word : cattle
+line is :358
+
+word : barrel
+line is :120
+
+word : course
+line is :135
+
+word : matter
+line is :118
+
+word : ground
+line is :198
+
+word : ignorant
+line is :410
+
+word : tired
+line is :266
+
+word : personal
+line is :68
+
+word : table
+line is :116
+
+word : first
+line is :433
+
+word : out
+line is :50
+
+word : reason
+line is :70
+
+word : monstrous
+line is :267
+
+word : clock
+line is :191
+
+word : water
+line is :488
+
+word : clothes
+line is :113
+
+word : old
+line is :106
+
+word : whisper
+line is :171
+
+word : chair
+line is :165
+
+word : light
+line is :197
+
+word : business
+line is :352
+
+word : silver
+line is :460
+
+word : account
+line is :283
+
+word : thought
+line is :327
+
+word : around
+line is :156
+
+word : start
+line is :108
+
+word : cross
+line is :313
+
+word : sound
+line is :173
+
+word : right
+line is :116
+
+word : regular
+line is :104
+
+word : body
+line is :102
+
+word : stand
+line is :105
+
+word : proud
+line is :267
+
+word : woman
+line is :493
+
+word : blame
+line is :376
+
+word : village
+line is :287
+
+word : house
+line is :104
+
+word : polite
+line is :412
+
+word : happen
+line is :274
+
+word : whole
+line is :150
+
+word : behave
+line is :448
+
+word : swear
+line is :295
+
+word : paper
+line is :308
+
+word : steep
+line is :258
+
+word : scrape
+line is :207
+
+word : watch
+line is :397
+
+word : money
+line is :97
+
+word : think
+line is :157
+
+word : awful
+line is :99
+
+word : spider
+line is :177
+
+word : night
+line is :175
+
+word : listen
+line is :230
+
+word : the
+line is :63
+
+word : is
+line is :26
+
+word : was
+line is :89
+
+word : and
+line is :65
+
+word : name
+line is :88
+
+word : next
+line is :220
+
+word : pencil
+line is :328
+
+word : tree
+line is :246
+
+word : kill
+line is :311
+
+word : loose
+line is :393
+
+word : edge
+line is :286
+
+word : watch
+line is :397
+
+word : scattered
+line is :318
+
+word : soft
+line is :196
+
+word : top
+line is :258
+
+word : end
+line is :206
+
+word : real
+line is :322
+
+word : love
+line is :413
+
+word : support
+line is :68
+
+word : cure
+line is :278
+
+word : fat
+line is :460
+
+word : name
+line is :88
+
+word : cave
+line is :298
+
+word : learned
+line is :123
+
+word : mark
+line is :350
+
+word : waiting
+line is :199
+
+word : hour
+line is :142
+
+word : same
+line is :271
+
+word : touch
+line is :281
+
+word : guard
+line is :393
+
+word : steep
+line is :258
+
+word : first
+line is :433
+
+word : room
+line is :164
+
+word : light
+line is :197
+
+word : call
+line is :304
+
+word : teeth
+line is :240
+
+word : boy
+line is :309
+
+word : throat
+line is :317
+
+word : need
+line is :179
+
+word : harm
+line is :112
+
+word : hard
+line is :140
+
+word : fall
+line is :413
+
+word : hands
+line is :245
+
+word : sleep
+line is :223
+
+word : rule
+line is :340
+
+word : stretch
+line is :145
+
+word : talk
+line is :71
+
+word : turn
+line is :494
+
+word : wish
+line is :176
+
+word : man
+line is :485
+
+word : wicked
+line is :149
+
+word : can
+line is :347
+
+word : bad
+line is :146
+
+word : twig
+line is :193
+
+word : stretch
+line is :145
+
+word : notice
+line is :268
+
+word : found
+line is :97
+
+word : number
+line is :63
+
+word : muddled
+line is :378
+
+word : side
+line is :258
+
+word : different
+line is :238
+
+word : breathe
+line is :241
+
+word : like
+line is :144
+
+word : open
+line is :271
+
+word : home
+line is :413
+
+word : fetch
+line is :180
+
+word : rob
+line is :428
+
+word : line
+line is :352
+
+word : belong
+line is :314
+
+word : saw
+line is :411
+
+word : end
+line is :206
+
+word : need
+line is :179
+
+word : suppose
+line is :71
+
+word : polite
+line is :412
+
+word : sound
+line is :173
+
+word : account
+line is :283
+
+word : three
+line is :182
+
+word : rule
+line is :340
+
+word : open
+line is :271
+
+word : square
+line is :48
+
+word : fool
+line is :407
+
+word : last
+line is :468
+
+word : death
+line is :190
+
+word : list
+line is :318
+
+word : money
+line is :97
+
+word : care
+line is :126
+
+word : better
+line is :477
+
+word : long
+line is :125
+
+word : play
+line is :253
+
+word : care
+line is :126
+
+word : second
+line is :434
+
+word : mind
+line is :152
+
+word : tired
+line is :266
+
+word : matter
+line is :118
+
+word : ready
+line is :240
+
+word : reason
+line is :70
+
+word : damp
+line is :301
+
+word : wait
+line is :117
+
+word : new
+line is :113
+
+word : fair
+line is :342
+
+word : head
+line is :117
+
+word : ear
+line is :220
+
+word : worry
+line is :469
+
+word : support
+line is :68
+
+word : cattle
+line is :358
+
+word : like
+line is :144
+
+word : awful
+line is :99
+
+word : float
+line is :491
+
+word : look
+line is :271
+
+word : ground
+line is :198
+
+word : blood
+line is :319
+
+word : straight
+line is :426
+
+word : scratch
+line is :220
+
+word : head
+line is :117
+
+word : window
+line is :165
+
+word : one
+line is :30
+
+word : cut
+line is :257
+
+word : poor
+line is :111
+
+word : ignorant
+line is :410
+
+word : grease
+line is :447
+
+word : paper
+line is :308
+
+word : form
+line is :64
+
+word : dead
+line is :125
+
+word : time
+line is :92
+
+word : pretty
+line is :144
+
+word : join
+line is :108
+
+word : dog
+line is :170
+
+word : sick
+line is :288
+
+word : river
+line is :292
+
+word : cross
+line is :313
+
+word : thought
+line is :327
+
+word : live
+line is :139
+
+word : watch
+line is :397
+
+word : slip
+line is :248
+
+word : noise
+line is :244
+
+word : pie
+line is :412
+
+word : form
+line is :64
+
+word : morning
+line is :445
+
+word : alike
+line is :71
+
+word : bell
+line is :115
+
+word : start
+line is :108
+
+word : table
+line is :116
+
+word : try
+line is :131
+
+word : right
+line is :116
+
+word : pin
+line is :349
+
+word : nation
+line is :380
+
+word : old
+line is :106
+
+word : sign
+line is :180
+
+word : stop
+line is :360
+
+word : woman
+line is :493
+
+word : move
+line is :394
+
+word : own
+line is :277
+
+word : way
+line is :97
+
+word : day
+line is :101
+
+word : regular
+line is :104
+
+word : rose
+line is :48
+
+word : hole
+line is :296
+
+word : juice
+line is :121
+
+word : ten
+line is :245
+
+word : love
+line is :413
+
+word : wall
+line is :300
+
+word : last
+line is :468
+
+word : scared
+line is :176
+
+word : sparkling
+line is :288
+
+word : cats
+line is :228
+
+word : show
+line is :263
+
+word : place
+line is :219
+
+word : club
+line is :398
+
+word : town
+line is :191
+
+word : narrow
+line is :301
+
+word : face
+line is :488
+
+word : sort
+line is :359
+
+word : ghost
+line is :173
+
+word : four
+line is :65
+
+word : talk
+line is :71
+
+word : five
+line is :251
+
+word : beautiful
+line is :322
+
+word : want
+line is :249
+
+word : correct
+line is :403
+
+word : itch
+line is :225
+
+word : mean
+line is :130
+
+word : house
+line is :104
+
+word : year
+line is :101
+
+word : back
+line is :109
+
+word : look
+line is :271
+
+word : little
+line is :117
+
+word : book
+line is :63
+
+word : hair
+line is :183
+
+word : part
+line is :297
+
+word : legs
+line is :233
+
+word : proud
+line is :267
+
+word : knock
+line is :472
+
+word : face
+line is :488
+
+word : wish
+line is :176
+
+word : power
+line is :134
+
+word : lock
+line is :183
+
+word : hill
+line is :258
+
+word : square
+line is :48
+
+word : neck
+line is :212
+
+word : rest
+line is :175
+
+word : touch
+line is :281
+
+word : turn
+line is :494
+
+word : mouth
+line is :471
+
+word : whisper
+line is :171
+
+word : books
+line is :401
+
+word : help
+line is :464
+
+word : best
+line is :366
+
+word : time
+line is :92
+
+word : play
+line is :253
+
+word : thing
+line is :114
+
+word : good
+line is :135
+
+word : six
+line is :98
+
+word : run
+line is :172
+
+word : used
+line is :337
+
+word : true
+line is :95
+
+word : join
+line is :108
+
+word : ordinary
+line is :65
+
+word : scrape
+line is :207
+
+word : move
+line is :394
+
+word : number
+line is :63
+
+word : foot
+line is :245
+
+word : mixed
+line is :120
+
+word : kind
+line is :121
+
+word : mighty
+line is :491
+
+word : learn
+line is :404
+
+word : whole
+line is :150
+
+word : book
+line is :63
+
+word : things
+line is :90
+
+word : big
+line is :209
+
+word : hat
+line is :259
+
+word : drunk
+line is :337
+
+word : thread
+line is :183
+
+word : person
+line is :311
+
+word : close
+line is :218
+
+word : water
+line is :488
+
+word : slim
+line is :138
+
+word : lock
+line is :183
+
+word : slip
+line is :248
+
+word : water
+line is :488
+
+word : stick
+line is :309
+
+word : pray
+line is :449
+
+word : minute
+line is :239
+
+word : sound
+line is :173
+
+word : rough
+line is :104
+
+word : tie
+line is :246
+
+word : start
+line is :108
+
+word : dark
+line is :193
+
+word : trees
+line is :206
+
+word : place
+line is :219
+
+word : listen
+line is :230
+
+word : happen
+line is :274
+
+word : living
+line is :104
+
+word : fine
+line is :380
+
+word : easy
+line is :175
+
+word : two
+line is :291
+
+word : fix
+line is :433
+
+word : comfortable
+line is :242
+
+word : wind
+line is :170
+
+word : root
+line is :208
+
+word : cluttered
+line is :417
+
+word : up
+line is :48
+
+word : tiresome
+line is :162
+
+word : mark
+line is :350
+
+word : back
+line is :109
+
+word : crawl
+line is :253
+
+word : night
+line is :175
+
+word : sign
+line is :180
+
+word : behave
+line is :448
+
+word : free
+line is :107
+
+word : part
+line is :297
+
+word : man
+line is :485
+
+word : long
+line is :125
+
+word : nose
+line is :234
+
+word : cold
+line is :172
+
+word : business
+line is :352
+
+word : pipe
+line is :189
+
+word : stop
+line is :360
+
+word : use
+line is :133
+
+word : sheet
+line is :308
+
+word : round
+line is :276
+
+word : use
+line is :133
+
+word : many
+line is :70
+
+word : silver
+line is :460
+
+word : soft
+line is :196
+
+word : rule
+line is :340
+
+word : play
+line is :253
+
+word : fool
+line is :407
+
+word : crawl
+line is :253
+
+word : call
+line is :304
+
+word : move
+line is :394
+
+word : correct
+line is :403
+
+word : foot
+line is :245
+
+word : sound
+line is :173
+
+word : back
+line is :109
+
+word : rough
+line is :104
+
+word : whisper
+line is :171
+
+word : place
+line is :219
+
+word : grease
+line is :447
+
+word : matter
+line is :118
+
+word : side
+line is :258
+
+word : mixed
+line is :120
+
+word : fine
+line is :380
+
+word : scratch
+line is :220
+
+word : fat
+line is :460
+
+word : turn
+line is :494
+
+word : turn
+line is :494
+
+word : one
+line is :30
+
+word : cut
+line is :257
+
+word : best
+line is :366
+
+word : up
+line is :48
+
+word : use
+line is :133
+
+word : hour
+line is :142
+
+word : man
+line is :485
+
+word : six
+line is :98
+
+word : rob
+line is :428
+
+word : name
+line is :88
+
+word : own
+line is :277
+
+word : day
+line is :101
+
+word : lock
+line is :183
+
+word : new
+line is :113
+
+word : scattered
+line is :318
+
+word : end
+line is :206
+
+word : name
+line is :88
+
+word : window
+line is :165
+
+word : join
+line is :108
+
+word : pie
+line is :412
+
+word : night
+line is :175
+
+word : run
+line is :172
+
+word : float
+line is :491
+
+word : suppose
+line is :71
+
+word : love
+line is :413
+
+word : pencil
+line is :328
+
+word : blood
+line is :319
+
+word : mark
+line is :350
+
+word : person
+line is :311
+
+word : twig
+line is :193
+
+word : books
+line is :401
+
+word : sound
+line is :173
+
+word : rest
+line is :175
+
+word : reason
+line is :70
+
+word : minute
+line is :239
+
+word : watch
+line is :397
+
+word : like
+line is :144
+
+word : poor
+line is :111
+
+word : hat
+line is :259
+
+word : stop
+line is :360
+
+word : round
+line is :276
+
+word : whole
+line is :150
+
+word : trees
+line is :206
+
+word : right
+line is :116
+
+word : talk
+line is :71
+
+word : stretch
+line is :145
+
+word : free
+line is :107
+
+word : thing
+line is :114
+
+word : start
+line is :108
+
+word : time
+line is :92
+
+word : try
+line is :131
+
+word : ghost
+line is :173
+
+word : tree
+line is :246
+
+word : behave
+line is :448
+
+word : mind
+line is :152
+
+word : care
+line is :126
+
+word : true
+line is :95
+
+word : itch
+line is :225
+
+word : mean
+line is :130
+
+word : touch
+line is :281
+
+word : nose
+line is :234
+
+word : home
+line is :413
+
+word : look
+line is :271
+
+word : talk
+line is :71
+
+word : woman
+line is :493
+
+word : belong
+line is :314
+
+word : book
+line is :63
+
+word : need
+line is :179
+
+word : awful
+line is :99
+
+word : beautiful
+line is :322
+
+word : like
+line is :144
+
+word : club
+line is :398
+
+word : fetch
+line is :180
+
+word : cross
+line is :313
+
+word : narrow
+line is :301
+
+word : easy
+line is :175
+
+word : watch
+line is :397
+
+word : pipe
+line is :189
+
+word : bad
+line is :146
+
+word : death
+line is :190
+
+word : way
+line is :97
+
+word : long
+line is :125
+
+word : dark
+line is :193
+
+word : polite
+line is :412
+
+word : breathe
+line is :241
+
+word : steep
+line is :258
+
+word : pin
+line is :349
+
+word : cats
+line is :228
+
+word : tired
+line is :266
+
+word : want
+line is :249
+
+word : fair
+line is :342
+
+word : last
+line is :468
+
+word : love
+line is :413
+
+word : last
+line is :468
+
+word : teeth
+line is :240
+
+word : four
+line is :65
+
+word : scrape
+line is :207
+
+word : harm
+line is :112
+
+word : cure
+line is :278
+
+word : wicked
+line is :149
+
+word : straight
+line is :426
+
+word : start
+line is :108
+
+word : fall
+line is :413
+
+word : town
+line is :191
+
+word : worry
+line is :469
+
+word : damp
+line is :301
+
+word : wall
+line is :300
+
+word : second
+line is :434
+
+word : look
+line is :271
+
+word : hands
+line is :245
+
+word : wish
+line is :176
+
+word : tiresome
+line is :162
+
+word : cave
+line is :298
+
+word : little
+line is :117
+
+word : two
+line is :291
+
+word : edge
+line is :286
+
+word : waiting
+line is :199
+
+word : slip
+line is :248
+
+word : throat
+line is :317
+
+word : ready
+line is :240
+
+word : many
+line is :70
+
+word : old
+line is :106
+
+word : dead
+line is :125
+
+word : found
+line is :97
+
+word : wait
+line is :117
+
+word : table
+line is :116
+
+word : paper
+line is :308
+
+word : open
+line is :271
+
+word : use
+line is :133
+
+word : drunk
+line is :337
+
+word : loose
+line is :393
+
+word : root
+line is :208
+
+word : show
+line is :263
+
+word : ignorant
+line is :410
+
+word : close
+line is :218
+
+word : regular
+line is :104
+
+word : man
+line is :485
+
+word : mark
+line is :350
+
+word : play
+line is :253
+
+word : wish
+line is :176
+
+word : long
+line is :125
+
+word : help
+line is :464
+
+word : big
+line is :209
+
+word : rule
+line is :340
+
+word : bell
+line is :115
+
+word : slim
+line is :138
+
+word : tie
+line is :246
+
+word : line
+line is :352
+
+word : proud
+line is :267
+
+word : used
+line is :337
+
+word : saw
+line is :411
+
+word : face
+line is :488
+
+word : scared
+line is :176
+
+word : form
+line is :64
+
+word : cold
+line is :172
+
+word : alike
+line is :71
+
+word : head
+line is :117
+
+word : nation
+line is :380
+
+word : business
+line is :352
+
+word : knock
+line is :472
+
+word : mouth
+line is :471
+
+word : pray
+line is :449
+
+word : sick
+line is :288
+
+word : thought
+line is :327
+
+word : cluttered
+line is :417
+
+word : kill
+line is :311
+
+word : three
+line is :182
+
+word : real
+line is :322
+
+word : square
+line is :48
+
+word : neck
+line is :212
+
+word : sign
+line is :180
+
+word : kind
+line is :121
+
+word : first
+line is :433
+
+word : wind
+line is :170
+
+word : things
+line is :90
+
+word : noise
+line is :244
+
+word : better
+line is :477
+
+word : support
+line is :68
+
+word : stick
+line is :309
+
+word : comfortable
+line is :242
+
+word : mighty
+line is :491
+
+word : sparkling
+line is :288
+
+word : hole
+line is :296
+
+word : juice
+line is :121
+
+word : river
+line is :292
+
+word : head
+line is :117
+
+word : ordinary
+line is :65
+
+word : year
+line is :101
+
+word : touch
+line is :281
+
+word : good
+line is :135
+
+word : lock
+line is :183
+
+word : house
+line is :104
+
+word : muddled
+line is :378
+
+word : number
+line is :63
+
+word : book
+line is :63
+
+word : top
+line is :258
+
+word : money
+line is :97
+
+word : room
+line is :164
+
+word : hard
+line is :140
+
+word : face
+line is :488
+
+word : ten
+line is :245
+
+word : time
+line is :92
+
+word : move
+line is :394
+
+word : dog
+line is :170
+
+word : fix
+line is :433
+
+word : cattle
+line is :358
+
+word : learn
+line is :404
+
+word : ground
+line is :198
+
+word : next
+line is :220
+
+word : living
+line is :104
+
+word : hill
+line is :258
+
+word : five
+line is :251
+
+word : legs
+line is :233
+
+word : different
+line is :238
+
+word : account
+line is :283
+
+word : hair
+line is :183
+
+word : number
+line is :63
+
+word : stretch
+line is :145
+
+word : light
+line is :197
+
+word : square
+line is :48
+
+word : place
+line is :219
+
+word : boy
+line is :309
+
+word : part
+line is :297
+
+word : ear
+line is :220
+
+word : power
+line is :134
+
+word : silver
+line is :460
+
+word : slip
+line is :248
+
+word : need
+line is :179
+
+word : part
+line is :297
+
+word : happen
+line is :274
+
+word : can
+line is :347
+
+word : sheet
+line is :308
+
+word : end
+line is :206
+
+word : notice
+line is :268
+
+word : learned
+line is :123
+
+word : morning
+line is :445
+
+word : sleep
+line is :223
+
+word : pretty
+line is :144
+
+word : water
+line is :488
+
+word : back
+line is :109
+
+word : care
+line is :126
+
+word : same
+line is :271
+
+word : sign
+line is :180
+
+word : water
+line is :488
+
+word : listen
+line is :230
+
+word : support
+line is :68
+
+word : guard
+line is :393
+
+word : join
+line is :108
+
+word : open
+line is :271
+
+word : rose
+line is :48
+
+word : live
+line is :139
+
+word : sort
+line is :359
+
+word : stop
+line is :360
+
+word : thread
+line is :183
+
+word : list
+line is :318
+
+word : form
+line is :64
+
